@@ -1,4 +1,4 @@
-# Back End of the Full Stack CRUD App
+# Back End of the Full Stack CRUD Employee Management App
 ## Used: React, Spring Boot, MySql Database, Bootstrap 5, Axios Http Library
 
 ## Architecture
