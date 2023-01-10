@@ -13,7 +13,7 @@
 ## Employee Added To Homepage
 ![3 addedemployee](https://user-images.githubusercontent.com/86784739/211669660-fa98f8d3-f880-4e90-bad5-92532a25baf4.png)
 
-## Click on Add Update Button
+## Click on Update Button
 ![4 update](https://user-images.githubusercontent.com/86784739/211669670-6d0b5ab5-7b86-41dc-87f4-c9d8a01d29dc.png)
 
 ## Updated First Employee
