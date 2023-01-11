@@ -14,9 +14,7 @@
 	<name>springboot-backend</name>
 	<description>Spring Boot REST APIs Project</description>
 	<properties>
-		<java.version>8</java.version>
-		<maven.compiler.source>1.8</maven.compiler.source>
- 		<maven.compiler.target>1.8</maven.compiler.target>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -57,8 +55,6 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
-					<source>1.8</source>
-                			<target>1.8</target>
 				</configuration>
 			</plugin>
 		</plugins>
