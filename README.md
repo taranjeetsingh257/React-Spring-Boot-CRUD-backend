@@ -1,5 +1,12 @@
 # Back End of the Full Stack CRUD Employee Management App
-## Used: React, Spring Boot, MySql Database, Bootstrap 5, Axios Http Library
+
+## Deployment Link:
+http://srems.s3-website-us-east-1.amazonaws.com/
+
+## Project Summary
+• Developed and deployed a Full Stack employee management application using React, Spring Boot and MySql Database<br>
+• Created CRUD REST APIs using Spring Boot, used Axios HTTP Library to make REST API calls in React along with Bootstrap 5<br>
+• Deployed Spring Boot Backend on AWS Elastic Beanstalk, MySql Database on AWS RDS and React.js Frontend on AWS S3<br>
 
 ## Architecture
 ![Screenshot 2023-01-10 at 4 09 49 PM](https://user-images.githubusercontent.com/86784739/211663304-be8b35c8-0a1f-4bd0-8199-ea3946d1b02e.png)
